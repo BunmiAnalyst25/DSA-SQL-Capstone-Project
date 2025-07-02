@@ -22,4 +22,7 @@
      8. Which consumer customer was the most profitable one
      9. Which customer returned items and what segment do they belong to
      10. If the delivery truck is the most economical but the slowest shipping method and Express Air is the fastest but the most expensiveone, do you think the company appropriately              spent shipping costs based on the order priority
+### Data Analysis
+  ---Question (1). Which product category had the highest sales?
+  
     
