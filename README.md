@@ -1,10 +1,14 @@
 # DSA-SQL-Capstone-Project
 ##
 ### Project Overview
+     This Analysis is to derive actionable business insights for KMS’s Abuja division by analyzing historical 
+     order data (2009–2012) using SQL.  The focus is on identifying high-performing products, customers, 
+     shipping methods, and regions, and recommending strategies to boost revenue and optimize operations.
 ### Data Source
+     Excel CSV files containing order data from 2009 to 2012 and Status.
 ### Tools Used
     - MS Excel for Data Collection
-    - SQL Server (for Querying and Analysis)
+    - Primary Tool: Microsoft SQL Server (for Data Cleaning, Querying and Analysis)
 ### Data Cleaning and Preparation
     - Data loading and inspection
     - Handling Missing Variables
@@ -23,6 +27,6 @@
      9. Which customer returned items and what segment do they belong to
      10. If the delivery truck is the most economical but the slowest shipping method and Express Air is the fastest but the most expensiveone, do you think the company appropriately              spent shipping costs based on the order priority
 ### Data Analysis
-  ---Question (1). Which product category had the highest sales?
+  
   
     
