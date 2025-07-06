@@ -1,5 +1,5 @@
 # DSA-SQL-Capstone-Project
-##
+## Project topic: Kultra Mega Stores Inventory Analysis
 ### Project Overview
      This Analysis is to derive actionable business insights for KMS’s Abuja division by analyzing historical 
      order data (2009–2012) using SQL.  The focus is on identifying high-performing products, customers, 
@@ -14,7 +14,7 @@
     - Handling Missing Variables
     - Data cleaning and formating
 ### Data Modelling
-     - Connecting two tables together
+     - Connected two tables together
 ### Exploratory Data Analysis
      1. Which product category had the highest sales
      2. What are the Top 3 and Bottom 3 regions in terms of sales
